@@ -25,7 +25,7 @@
 
 
     <br>
-<img align="center" src="https://skillicons.dev/icons?i=py,cpp,java,spring,flask,fastapi,nodejs,js,ts,vue,react,vite,electron,html,less,tailwind,mysql,postgres,redis,mongodb,docker,nginx,git,npm,pnpm,bun,github,githubactions,postman,anaconda,arch,ubuntu,figma,vscode&perline=12&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,mysql,visualstudio,vscode,cmake,css,git,github,gmail,html,ai,java,js,npm,powershell,py,qt,redis,twitter,vue,windows&perline=12" />
 
 ---
 
