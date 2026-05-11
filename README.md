@@ -49,8 +49,8 @@
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td>2026-04-19-「插件」OpenCode 实时获取 VSCode/JetBrains 编辑器选区</td><td align="center">2026-04-19</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/4549.html">点击阅读</a></td></tr>
-<tr><td>2026-03-29-oh-my-posh配置分享</td><td align="center">2026-03-29</td><td align="center"><a href="https://zhoubaochuan049.github.io/posts/%E6%A0%87%E7%AD%BE%E7%8E%B0%E4%BB%A3cpp%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%8E%B0%E4%BB%A3cpp01/">点击阅读</a></td></tr>
+<!-- BLOG-POST-LIST:START --><!--<tr><td>2026-04-19-「插件」OpenCode 实时获取 VSCode/JetBrains 编辑器选区</td><td align="center">2026-04-19</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/4549.html">点击阅读</a></td></tr> -->
+<tr><td>Re：C++11列表初始化&Initializer_List</td><td align="center">2026-03-29</td><td align="center"><a href="https://zhoubaochuan049.github.io/posts/%E6%A0%87%E7%AD%BE%E7%8E%B0%E4%BB%A3cpp%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%8E%B0%E4%BB%A3cpp01/">点击阅读</a></td></tr>
 <!--
 <tr><td>2026-03-28-团队项目协作规范随记</td><td align="center">2026-03-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/19959.html">点击阅读</a></td></tr>
 <tr><td>2026-03-28-FastAPI 工程实践随记</td><td align="center">2026-03-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/10196.html">点击阅读</a></td></tr>
