@@ -2,12 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Long+Cang&size=50&duration=4000&pause=2000&color=55A8F7&background=32D9FF00&width=1335&height=100&lines=%E2%80%9C%E8%B6%8A%E8%BF%87%E9%95%BF%E5%9F%8E%EF%BC%8C%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C%E2%80%9D;%E2%80%9CAcross+the+Great+Wall+we+can+reach+every+corner+in+the+world%E2%80%9D" alt="Typing SVG" /></a>
 
-<<<<<<< HEAD
 <img width="400" alt="image" src="./img/deskversion.png" align="right"/>
-=======
-<!--<img width="300" alt="image" src="https://gitee.com/the-chronicles-of-zhou-bao/cdsn-image-bed/raw/master/QQ20260511-230719.png" align="right"/> -->
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/eeed6346-d1bb-49d9-98c0-e6fdb5eb2f7e" align="right"/>
->>>>>>> dbd32f463b8b48157667e2679b902ffd8d358d6e
 
 <br>
 
