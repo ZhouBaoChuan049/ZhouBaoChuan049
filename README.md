@@ -25,7 +25,7 @@
 
 
     <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,mysql,visualstudio,vscode,cmake,css,git,github,gmail,html,ai,java,js,npm,powershell,py,qt,redis,twitter,vue,windows&perline=12" />
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,mysql,visualstudio,vscode,cmake,css,git,github,gmail,html,ai,java,js,npm,powershell,py,qt,redis,twitter,vue,windows&theme=light&perline=12" />
 
 ---
 
