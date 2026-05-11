@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Long+Cang&size=50&duration=4000&pause=2000&color=55A8F7&background=32D9FF00&width=1335&height=100&lines=%E2%80%9C%E8%B6%8A%E8%BF%87%E9%95%BF%E5%9F%8E%EF%BC%8C%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C%E2%80%9D;%E2%80%9CAcross+the+Great+Wall+we+can+reach+every+corner+in+the+world%E2%80%9D" alt="Typing SVG" /></a>
 
-<img height="300" alt="image" src="https://gitee.com/the-chronicles-of-zhou-bao/cdsn-image-bed/raw/master/ab3624aaa7e8c538f22115fb1ecdbf2a.jpg" align="right"/>
+<img height="300" alt="image" src="https://gitee.com/the-chronicles-of-zhou-bao/cdsn-image-bed/raw/master/dc2d500ec2442c1b82518d901565bcc7.jpg" align="right"/>
 <br>
 
 *   来自浙江,长兴县
