@@ -17,6 +17,7 @@
 * **博客** https://zhoubaochuan049.github.io/
 * **Email** 3450014365@qq.com
 * **QQ** 3450014365
+* **公众号** 此方的技术栈
 
 <br clear="right" />
 <br>
