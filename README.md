@@ -15,7 +15,7 @@
 
 * **CSDN** https://blog.csdn.net/Z2314246476
 * **博客** https://zhoubaochuan049.github.io/[施工中]
-* **Email** 3450014365@qq.com
+* **Email** MrKonata@163.com
 * **QQ** 3450014365
 * **公众号** 此方的技术栈
 
