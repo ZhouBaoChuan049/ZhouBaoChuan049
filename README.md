@@ -16,13 +16,14 @@
 * **CSDN** https://blog.csdn.net/Z2314246476
 * **博客** https://zhoubaochuan049.github.io/[施工中]
 * **Email** MrKonata@163.com
-* **QQ** 3450014365
-* **公众号** 此方的技术栈
+* **公众号** Konata的技术栈
 
 <br clear="right" />
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,mysql,visualstudio,vscode,cmake,css,git,github,gmail,html,ai,java,js,npm,powershell,py,qt,redis,twitter,vue,windows&theme=light&perline=12" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,mysql,visualstudio,vscode,cmake,css,git,github,gmail,html,ai,java,js,npm,powershell,py,qt,redis,twitter,vue,windows,docker,rabbitmq,elasticsearch,sqlite,bash&theme=light&perline=12" />
+
 
 ---
 
